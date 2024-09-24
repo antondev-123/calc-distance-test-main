@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mapWrapper {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  flex-grow: 1;
+}
+
+.SimpleMap {
+  height: 100%;
+}
